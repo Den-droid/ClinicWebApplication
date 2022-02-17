@@ -1,0 +1,38 @@
+table, td, th {
+    border: 2px double grey;
+}
+
+td {
+    padding: 10px;
+}
+
+tr {
+    text-align: center;
+}
+
+.divCenter{
+    box-sizing: border-box;
+    width: 100%;
+    float: left;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.innerDivCenter{
+    margin: 0 auto;
+    width: 700px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
+body{
+    padding: 10px;
+    background-color: #ffffd8;
+}
